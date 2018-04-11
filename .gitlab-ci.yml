@@ -4,5 +4,5 @@ stages:
 test:
   stage: test
   script:
-    - echo "Hello world"
+    - echo "Hello world
     - exit 1 #force error
